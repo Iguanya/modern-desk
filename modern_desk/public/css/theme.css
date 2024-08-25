@@ -58,8 +58,6 @@
     fill: #fff;
 }
 
-
-
 [data-theme=modern_ui_theme] .navbar {
     background: linear-gradient(to right, var(--main-color), var(--second-color)) !important;
     border: none !important;
